@@ -96,6 +96,11 @@ header {
   padding: 0.7em 2em;
   font-family: 'Lexend Deca', sans-serif;
   text-decoration: none;
+  border: 0.1px solid #fff;
+}
+.card__item-btn:hover {
+  background: inherit;
+  color: #fff;
 }
 
 .attribution {
